@@ -1,2 +1,2 @@
 # traduction
-Translate language and show with Toast message
+Translate language and show using Toast message
